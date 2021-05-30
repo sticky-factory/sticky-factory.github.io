@@ -2,7 +2,7 @@
 layout: post
 permalink: /apple-privacy-review-001/
 title: '애플은 개인정보에 대해 이렇게 생각합니다'
-date: 2019-12-15 15:30:00 +09:00
+date: 2021-05-27 15:30:00 +09:00
 feature: '/img/posts/01/ad-review-001-02.jpg'
 categories:
   - References
