@@ -28,9 +28,7 @@ description: '애플은 아이폰을 만들지만, 그 안에 들은 데이터 �
 
 먼저 친절한 첫 번째 영상 '앱 추적 투명성(App Tracking Transparency)'을 보면서 앱 추적에 대해 잠시 살펴보고 넘어가죠.
 
-<div>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/huaBhJz1hWc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+{% include youtube.html id="huaBhJz1hWc" %}
 
 정보를 점과 선으로 표현해 앱 추적 개념을 쉽게 전달하는 방법이나 사용자의 데이터를 모아 만든 '디지털 프로필'이 데이터(선)가 합쳐진 지문으로 표현한 장면은 정말이지 감탄이 절로 나오네요. 작은 디지털 정보의 합이 곧 개인정보라는 개념이 직관적으로 다가옵니다.
 
@@ -55,9 +53,7 @@ description: '애플은 아이폰을 만들지만, 그 안에 들은 데이터 �
 
 2021년 5월 21일, 애플이 개인정보와 관련해 공개한 두 번째 영상, '추적(Tracked)'은 사용자가 개인정보 공개 범위 선택권이 없을 경우 무슨 일이 벌어지는지 경각심을 일깨웁니다. 일상에서 쉽게 와닿지 않는 상황을 일종의 역할극을 통해 보여주죠.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8w4qPUSG17Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
+{% include youtube.html id="8w4qPUSG17Y" %}
 
 ![Tracked 01](/img/posts/01/ad-review-001-08.png)
 
