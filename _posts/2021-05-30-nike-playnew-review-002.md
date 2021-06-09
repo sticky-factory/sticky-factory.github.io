@@ -1,7 +1,7 @@
 ---
 layout: post
 permalink: /nike-playnew-review-002/
-title: '나이키는 새로운 판을 깔 것인가? Play New 캠페인'
+title: '나이키는 새 판을 깔 것인가? Play New 캠페인'
 date: 2021-05-30 16:30:00 +09:00
 feature: '/img/posts/02/nike000.jpg'
 categories:
@@ -14,7 +14,8 @@ tags:
 description: '실패를 넘어 즐기는 마음으로, 나이키는 한 단계 더 진화한 문법으로 우리를 설득합니다'
 ---
 
-< 나이키의 좌우명, JUST DO IT >
+## **나이키의 좌우명, JUST DO IT**
+
 
 ![나이키](/img/posts/02/nike001.jpg)
 
@@ -25,7 +26,7 @@ description: '실패를 넘어 즐기는 마음으로, 나이키는 한 단계 �
 
 미국 샌프란시스코의 금문교(Golden Gate) 위, 한 노인이 아침 해를 받으며 달리고 있습니다. 노인의 이름은 월터 스택. 총 길이 2,789m의 다리 위라니. 꽤 긴 거리를 달리고 있다는 것을 알 수 있습니다. 대단하다고 생각하는 찰나, 월터 스택은 말하죠 "저는 매일 아침 70마일을 달립니다(I run 17 miles every morning)." 17마일? 미터로 환산하면 약 27.3km에 달하는 거리입니다. 하프마라톤(21.915km)보다 5km를 더 달려야 하는 긴 코스네요.
 
-주변에 인사하고 농담까지 건네는 여유를 보여줍니다. "사람들이 겨울에 이가 딱딱 부딪힐만큼 춥지 않냐고 물을 땐 사물함에 두고 다닌다고 대답합니다(People ask me how I keep my teeth from chattering in the wintertime, I leave 'em in my locker)" 불가능한 도전은 없고 과정을 즐기는 모습에는 감탄이 나옵니다.
+주변에 인사하고 농담까지 건네는 여유를 보여줍니다. "사람들이 겨울에 이가 딱딱 부딪힐만큼 춥지 않냐고 물을 땐 사물함에 두고 다닌다고 대답합니다(People ask me how I keep my teeth from chattering in the wintertime, I leave 'em in my locker)" 도전 과정을 즐기는 모습에는 감탄이 나옵니다.
 
 ![나이키](/img/posts/02/Unlimited-Rio-02_original.jpg)
 
@@ -39,7 +40,8 @@ JUST DO IT 문구가 넓은 범위 인구를 아우르는 만큼 지난 33년간
 
 <br>
 
-< 새로운 제안, PLAY NEW >
+
+## **새로운 제안, PLAY NEW**
 
 그런데 최근 나이키는 JUST DO IT을 뺀 캠페인을 슬로건을 들고 왔습니다. 바로 'PLAY NEW'입니다. 미국 독립 광고 대행사 와이든+케네디가 진행한 캠페인으로 새로운 방식으로 스포츠를 발견하도록 응원하는 내용을 담았습니다.
 
